@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Newsly</string>
+    <string name="business">Business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="general">general</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+    <string name="app_license">Newsly app made by Supratim Bhattacharjee</string>
+    <string name="welcome_to_app_splash">Welcome To Newsly App</string>
+    <string name="news_image">News Image</string>
+</resources>
